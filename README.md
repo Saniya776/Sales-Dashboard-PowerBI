@@ -1,32 +1,28 @@
-# Sales Data Dashboard in Power BI
+## 🚀 Project Overview
+This interactive Sales Dashboard helps analyze key metrics such as Total Sales, Profit, Sales by Region, and Monthly Trends. The project was built in Power BI using a real-world-style dataset and aims to provide actionable insights for business decision-making.
 
-## Overview
-An interactive Power BI dashboard to analyze sales trends and territory performance.
+## 🛠️ Tools & Techniques
+- **Power BI Desktop**
+- **Power Query** for data transformation
+- **DAX** (Data Analysis Expressions) for KPIs like:
+  - Total Sales
+  - Profit Margin
+  - Year-over-Year (YoY) Growth
+- Interactive visuals: bar charts, line graphs, KPIs, slicers
 
-## Features
-- Import and visualize sales data
-- SQL queries for data aggregation
-- DAX measures for KPIs
-- Interactive charts for:
-  - Sales by Region
-  - Sales Trend Over Time
-  - Sales by Product
+## 📈 Key Features
+- Region-wise and category-wise sales breakdown
+- Monthly and yearly sales trend analysis
+- Dynamic filtering with slicers
+- Drill-down capabilities for granular insights
 
-## Files
-- dashboard.pbix: Power BI dashboard file
-- data/sales_data.csv: Sample sales data
-- queries.sql: Example SQL queries for analysis
+## 📂 File
+- `new dashboard.pbix`: The Power BI dashboard file
 
-## How to Use
-1. Open Power BI Desktop.
-2. Open `dashboard.pbix`.
-3. Explore and edit the visuals.
-4. Try changing data in `sales_data.csv` to see dynamic updates.
+## 🔗 Usage
+Open the `.pbix` file in Power BI Desktop to explore the dashboard and interact with the visuals.
 
-## Tech Stack
-- Power BI Desktop
-- SQL (for data aggregation concepts)
-- CSV data file
-
-## Author
+## 👩‍💻 Author
 Saniya Chettri
+
+
